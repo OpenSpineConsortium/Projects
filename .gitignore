@@ -1,0 +1,13 @@
+# imaging data never enters git
+*.nii
+*.nii.gz
+*.dcm
+*.zip
+data/
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
